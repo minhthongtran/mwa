@@ -1,0 +1,16 @@
+{
+  "name": "app03-school",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app03.js",
+  "scripts": {
+    "start": "node app03.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TMT",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.3",
+    "express": "^4.18.2"
+  }
+}
